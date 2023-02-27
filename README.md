@@ -1,5 +1,10 @@
     THIS APP IS CONNECTED TO MONGODB ONLINE
     YOU NEED POSTMAN TO TEST IT OUT
+    This is hosted on render and our host is :
+
+https://hotel-management-448d.onrender.com/
+
+The local host 3000 has been replaced with this. Add the routes stated after the forward slash above ⬆️ to test out each of the endpoints
 
 > Simple demonstration of Creating , Reading, Updating and Deleting Api data from MongoDb
 
